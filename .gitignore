@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+
+data/raw_pages/*
+!data/raw_pages/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+data/models/*
+!data/models/.gitkeep
+data/scrape_runs/*
+!data/scrape_runs/.gitkeep

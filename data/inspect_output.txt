@@ -1,0 +1,420 @@
+﻿P11 - ALL IMAGES:
+  [0] alt=[$2$]
+      src=[//latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png]
+      class=['latex'] size=11x14
+
+  [1] alt=[$3$]
+      src=[//latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png]
+      class=['latex'] size=11x14
+
+  [2] alt=[[asy] size(200); defaultpen(linewidth(0.6pt)+fontsize(10pt)); real y = sqrt(3); pair A,B,C,D,E,F,G,H; A = (0,0); B = (0,]
+      src=[//latex.artofproblemsolving.com/7/6/3/763eea423cc19d0e0a602d3e907bd5edc03cc6b7.png]
+      class=['latexcenter'] size=335x335
+
+  [3] alt=[$\textbf{(A) }\frac15\qquad\textbf{(B) }\frac14\qquad\textbf{(C) }2-\sqrt3\qquad\textbf{(D) }\sqrt3-\sqrt2\qquad\textbf{]
+      src=[//latex.artofproblemsolving.com/0/3/6/036176b7bffadb521307e1b1c8bf5ea12f8df1d0.png]
+      class=['latex'] size=518x38
+
+  [4] alt=[$\sqrt{2}$]
+      src=[//latex.artofproblemsolving.com/2/c/4/2c4dc1409208ff6a3039f4871d85c16763334983.png]
+      class=['latex'] size=26x21
+
+  [5] alt=[$\sqrt{3}$]
+      src=[//latex.artofproblemsolving.com/6/c/7/6c77cf4b63af80bfbc6a9ad9b4b9e8e549e77d78.png]
+      class=['latex'] size=24x18
+
+  [6] alt=[$x$]
+      src=[//latex.artofproblemsolving.com/2/6/e/26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png]
+      class=['latex'] size=12x10
+
+  [7] alt=[$\sqrt{3}-x$]
+      src=[//latex.artofproblemsolving.com/7/1/f/71f45ba6468504e51d9a7032e261df1deceb9eb7.png]
+      class=['latex'] size=59x21
+
+  [8] alt=[\begin{align*} (\sqrt{3}-x)^2+x^2&=(\sqrt{2})^2 \\ 3-2\sqrt{3}x+x^2+x^2&=2 \\ 2x^2-2\sqrt{3}x+1&=0. \end{align*}]
+      src=[//latex.artofproblemsolving.com/7/d/f/7dfc95db7f3668c51b1cc90041da16efa0479963.png]
+      class=['latexcenter'] size=223x78
+
+  [9] alt=[$x=\frac{\sqrt{3}\pm1}{2}$]
+      src=[//latex.artofproblemsolving.com/f/9/e/f9ed59b3c3380062da90060467e80fe27420b759.png]
+      class=['latex'] size=96x43
+
+  [10] alt=[$\frac{\sqrt{3}-1}{\sqrt{3}+1}=\boxed{\textbf{(C) }2-\sqrt3}.$]
+      src=[//latex.artofproblemsolving.com/a/4/b/a4b595eeaa50b4cdba2ea28570c78369a5a323df.png]
+      class=['latex'] size=193x48
+
+  [11] alt=[$3$]
+      src=[//latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png]
+      class=['latex'] size=11x14
+
+  [12] alt=[$2$]
+      src=[//latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png]
+      class=['latex'] size=11x14
+
+  [13] alt=[$3-2=1.$]
+      src=[//latex.artofproblemsolving.com/5/c/d/5cd1ea390252929a5c82d22d27a54cda99de63a9.png]
+      class=['latex'] size=81x15
+
+  [14] alt=[$4$]
+      src=[//latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png]
+      class=['latex'] size=11x14
+
+  [15] alt=[$\dfrac14$]
+      src=[//latex.artofproblemsolving.com/6/5/0/65062fdb76dd3fa4c45cd14d57d9513871a4fc19.png]
+      class=['latex'] size=15x38
+
+  [16] alt=[$1$]
+      src=[//latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png]
+      class=['latex'] size=11x14
+
+  [17] alt=[$x$]
+      src=[//latex.artofproblemsolving.com/2/6/e/26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png]
+      class=['latex'] size=12x10
+
+  [18] alt=[$\sqrt{3} - x$]
+      src=[//latex.artofproblemsolving.com/9/a/b/9aba16a1b2cd61e9ad91956d39f311694560a684.png]
+      class=['latex'] size=59x21
+
+  [19] alt=[$\frac{x\left(\sqrt{3} - x\right)}{2} = \frac{1}{4}$]
+      src=[//latex.artofproblemsolving.com/d/a/5/da58488fd8b0524ee3282704eacc721f4b357d2d.png]
+      class=['latex'] size=135x53
+
+  [20] alt=[$x^2-x\sqrt{3}+\frac{1}{2} = 0$]
+      src=[//latex.artofproblemsolving.com/1/a/c/1ac093f32fac3e86df45cce5a49d0a4e4ad130d2.png]
+      class=['latex'] size=145x38
+
+  [21] alt=[$x=\frac{\sqrt{3}\pm1}{2}$]
+      src=[//latex.artofproblemsolving.com/f/9/e/f9ed59b3c3380062da90060467e80fe27420b759.png]
+      class=['latex'] size=96x43
+
+  [22] alt=[$\frac{\sqrt{3}-1}{\sqrt{3}+1}=\boxed{\textbf{(C) }2-\sqrt3}.$]
+      src=[//latex.artofproblemsolving.com/a/4/b/a4b595eeaa50b4cdba2ea28570c78369a5a323df.png]
+      class=['latex'] size=193x48
+
+  [23] alt=[$x$]
+      src=[//latex.artofproblemsolving.com/2/6/e/26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png]
+      class=['latex'] size=12x10
+
+  [24] alt=[$y$]
+      src=[//latex.artofproblemsolving.com/0/9/2/092e364e1d9d19ad5fffb0b46ef4cc7f2da02c1c.png]
+      class=['latex'] size=11x13
+
+  [25] alt=[$xy$]
+      src=[//latex.artofproblemsolving.com/3/f/7/3f79c3676b62fb47243e0d357c87115b6f3395e4.png]
+      class=['latex'] size=22x13
+
+  [26] alt=[$xy + y = \sqrt{3}$]
+      src=[//latex.artofproblemsolving.com/1/5/0/150f296c286775e6d0132177a1298576ee3286b1.png]
+      class=['latex'] size=102x23
+
+  [27] alt=[$(xy)^2 + y^2 + 2xy^2 = 3$]
+      src=[//latex.artofproblemsolving.com/e/b/a/eba76b78c6076f3b7220ce6c39cebb436cfd3856.png]
+      class=['latex'] size=175x21
+
+  [28] alt=[$(xy)^2 + y^2 = 2$]
+      src=[//latex.artofproblemsolving.com/d/4/0/d40f309c09e9398d6614652f3745337391703e59.png]
+      class=['latex'] size=116x21
+
+  [29] alt=[$2xy^2 = 1$]
+      src=[//latex.artofproblemsolving.com/0/6/f/06f33749af08a934f64c8a51e2e6d322b1df4b93.png]
+      class=['latex'] size=72x20
+
+  [30] alt=[$y^2=\frac{1}{2x}$]
+      src=[//latex.artofproblemsolving.com/d/f/0/df038836a64804974599b1f8663e6657382a9c70.png]
+      class=['latex'] size=67x38
+
+  [31] alt=[$y$]
+      src=[//latex.artofproblemsolving.com/0/9/2/092e364e1d9d19ad5fffb0b46ef4cc7f2da02c1c.png]
+      class=['latex'] size=11x13
+
+  [32] alt=[$x^2\cdot \frac{1}{2x} + \frac{1}{2x} = 2$]
+      src=[//latex.artofproblemsolving.com/3/5/2/35223ee109ce43ebd0475b21c040a9b4fc1ed6d0.png]
+      class=['latex'] size=135x38
+
+  [33] alt=[$x^2 - 4x + 1 = 0$]
+      src=[//latex.artofproblemsolving.com/3/7/9/379b4eb9dbbd68fc49a5526b11042040d7749adb.png]
+      class=['latex'] size=126x18
+
+  [34] alt=[$x=2\pm \sqrt3$]
+      src=[//latex.artofproblemsolving.com/4/f/5/4f5cb076b8c10aad23badc86a74a022aa3dd9046.png]
+      class=['latex'] size=92x21
+
+  [35] alt=[$x$]
+      src=[//latex.artofproblemsolving.com/2/6/e/26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png]
+      class=['latex'] size=12x10
+
+  [36] alt=[$1$]
+      src=[//latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png]
+      class=['latex'] size=11x14
+
+  [37] alt=[$\boxed{\textbf{(C) }2-\sqrt3}$]
+      src=[//latex.artofproblemsolving.com/d/6/8/d68ec7d36126491e9ce02da9ddf3ae34338c8b0d.png]
+      class=['latex'] size=104x35
+
+  [38] alt=[$\sqrt{3}$]
+      src=[//latex.artofproblemsolving.com/6/c/7/6c77cf4b63af80bfbc6a9ad9b4b9e8e549e77d78.png]
+      class=['latex'] size=24x18
+
+  [39] alt=[$\sqrt{2}$]
+      src=[//latex.artofproblemsolving.com/2/c/4/2c4dc1409208ff6a3039f4871d85c16763334983.png]
+      class=['latex'] size=26x21
+
+  [40] alt=[$x$]
+      src=[//latex.artofproblemsolving.com/2/6/e/26eeb5258ca5099acf8fe96b2a1049c48c89a5e6.png]
+      class=['latex'] size=12x10
+
+  [41] alt=[$y$]
+      src=[//latex.artofproblemsolving.com/0/9/2/092e364e1d9d19ad5fffb0b46ef4cc7f2da02c1c.png]
+      class=['latex'] size=11x13
+
+  [42] alt=[$x+y=\sqrt{3}$]
+      src=[//latex.artofproblemsolving.com/d/5/c/d5c829ee73800cf107f149e5d017e82337d36d27.png]
+      class=['latex'] size=92x23
+
+  [43] alt=[$xy=\frac{1}{2}$]
+      src=[//latex.artofproblemsolving.com/0/c/d/0cd201057734e0d9d3527ed05d1ec98bdc0b4c8a.png]
+      class=['latex'] size=59x38
+
+  [44] alt=[\[x^2-\sqrt{3}x+\frac{1}{2}=0.\]]
+      src=[//latex.artofproblemsolving.com/e/0/1/e01ae90b54352231df58eb63db8f3abe59ab537b.png]
+      class=['latexcenter'] size=146x37
+
+  [45] alt=[$x=\frac{\sqrt{3}-1}{2}$]
+      src=[//latex.artofproblemsolving.com/4/5/6/4569e07ad99bf074b0c3568cd389cd77e0a47cc8.png]
+      class=['latex'] size=96x43
+
+  [46] alt=[$y=\frac{\sqrt{3}+1}{2}$]
+      src=[//latex.artofproblemsolving.com/8/6/b/86bd87a2d966116c0c7becb8ef9d8016ddb0b6fb.png]
+      class=['latex'] size=95x43
+
+  [47] alt=[$\frac{x}{y}=\frac{\sqrt{3}-1}{\sqrt{3}+1}=\frac{(\sqrt{3}-1)^2}{(\sqrt{3}+1)\cdot(\sqrt{3}-1)}=\frac{4-2\sqrt{3}}{2}=\b]
+      src=[//latex.artofproblemsolving.com/b/9/9/b998955076967922873c045a9c674b4dda68487a.png]
+      class=['latex'] size=500x50
+
+  [48] alt=[$\theta$]
+      src=[//latex.artofproblemsolving.com/5/2/e/52e8ed7a3ba22130ad3984eb2cd413406475a689.png]
+      class=['latex'] size=11x14
+
+  [49] alt=[$\tan\theta$]
+      src=[//latex.artofproblemsolving.com/3/e/3/3e3230e11561a7290dc4774c65dcff5e3ccd03f0.png]
+      class=['latex'] size=38x13
+
+  [50] alt=[$\frac{1}{2}\left(\sqrt{2}\sin\theta\right)\left(\sqrt{2}\cos\theta\right)=\frac{1}{2}\sin 2\theta=\frac{1}{4},$]
+      src=[//latex.artofproblemsolving.com/7/7/e/77ef6cf57a528a102b2131a3dff16aa6fada77d0.png]
+      class=['latex'] size=315x38
+
+  [51] alt=[$\sin 2\theta = \frac{1}{2},$]
+      src=[//latex.artofproblemsolving.com/1/6/c/16c0dd01f51c6517a723e2a03dabc62a893752c7.png]
+      class=['latex'] size=88x38
+
+  [52] alt=[$\theta=15^\circ$]
+      src=[//latex.artofproblemsolving.com/e/4/5/e4545c32e840c40e1f0788b3488148ec25511a27.png]
+      class=['latex'] size=61x15
+
+  [53] alt=[$\tan \theta = \boxed{\textbf{(C) }2-\sqrt3}$]
+      src=[//latex.artofproblemsolving.com/f/e/7/fe721654afcf1e56f3fdc7faca8b664e52c9b287.png]
+      class=['latex'] size=166x35
+
+  [54] alt=[$a > b.$]
+      src=[//latex.artofproblemsolving.com/8/3/3/833de72125df70d4dcff04df52b224c4fccc5036.png]
+      class=['latex'] size=49x15
+
+  [55] alt=[$\frac{b}{a}$]
+      src=[//latex.artofproblemsolving.com/0/3/2/032cb0c5932179b6ceedd7baa2a7b33391437704.png]
+      class=['latex'] size=12x37
+
+  [56] alt=[$\frac{3-2}{4}$]
+      src=[//latex.artofproblemsolving.com/0/a/6/0a6eb330a93d608c9b358f014ce8cf9cae4d5178.png]
+      class=['latex'] size=46x38
+
+  [57] alt=[$\frac{1}{4}$]
+      src=[//latex.artofproblemsolving.com/c/3/3/c339afa03e060d959e4942be7522c0c992f4c41c.png]
+      class=['latex'] size=15x38
+
+  [58] alt=[$ab = \frac{1}{2}$]
+      src=[//latex.artofproblemsolving.com/9/1/0/910ef05722a741be250aced99a94bafead804ffd.png]
+      class=['latex'] size=57x38
+
+  [59] alt=[$a^2+b^2$]
+      src=[//latex.artofproblemsolving.com/c/f/6/cf669d58fbd0410ca860758e53606d06425a4d97.png]
+      class=['latex'] size=53x16
+
+  [60] alt=[$2$]
+      src=[//latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png]
+      class=['latex'] size=11x14
+
+  [61] alt=[$b$]
+      src=[//latex.artofproblemsolving.com/8/1/3/8136a7ef6a03334a7246df9097e5bcc31ba33fd2.png]
+      class=['latex'] size=10x14
+
+  [62] alt=[$\frac{1}{2a}$]
+      src=[//latex.artofproblemsolving.com/8/8/7/88730d2251374705c86fdb151de90f7a24b1f43b.png]
+      class=['latex'] size=21x37
+
+  [63] alt=[$a^2+\frac{1}{4a^2} = 2$]
+      src=[//latex.artofproblemsolving.com/7/c/a/7cabc7423c62a86c8230020fdc0236d8bdc62548.png]
+      class=['latex'] size=105x38
+
+  [64] alt=[$4a^4-8a^2+1 = 0$]
+      src=[//latex.artofproblemsolving.com/9/4/9/94952fdbdd05edd9127bcf8b438538d109024de3.png]
+      class=['latex'] size=141x18
+
+  [65] alt=[$a^2 = \frac{8 \pm 4\sqrt{3}}{2}$]
+      src=[//latex.artofproblemsolving.com/a/0/7/a0769607cd6503293de8de79894ead91dc6ba69d.png]
+      class=['latex'] size=112x43
+
+  [66] alt=[$4 \pm 2\sqrt3$]
+      src=[//latex.artofproblemsolving.com/5/d/6/5d671beaf2a5c397c956c4193caf86f8c6b5fb12.png]
+      class=['latex'] size=66x21
+
+  [67] alt=[$a$]
+      src=[//latex.artofproblemsolving.com/c/7/d/c7d457e388298246adb06c587bccd419ea67f7e8.png]
+      class=['latex'] size=11x10
+
+  [68] alt=[$b$]
+      src=[//latex.artofproblemsolving.com/8/1/3/8136a7ef6a03334a7246df9097e5bcc31ba33fd2.png]
+      class=['latex'] size=10x14
+
+  [69] alt=[$a>b$]
+      src=[//latex.artofproblemsolving.com/0/8/2/082852571ecc48ed136ba13dcffa8f6e40064bbd.png]
+      class=['latex'] size=43x15
+
+  [70] alt=[$a^2 = 4+2\sqrt3$]
+      src=[//latex.artofproblemsolving.com/2/5/4/254b3f81025f3e6d16c6ac80cd76976a727a9447.png]
+      class=['latex'] size=108x21
+
+  [71] alt=[$b^2 = 4-2\sqrt3$]
+      src=[//latex.artofproblemsolving.com/6/c/e/6ce8d4ddb459004f0ab0d1a3267db3a753cf247f.png]
+      class=['latex'] size=106x21
+
+  [72] alt=[$\frac{b}{a}$]
+      src=[//latex.artofproblemsolving.com/0/3/2/032cb0c5932179b6ceedd7baa2a7b33391437704.png]
+      class=['latex'] size=12x37
+
+  [73] alt=[$\frac{b^2}{a^2}$]
+      src=[//latex.artofproblemsolving.com/d/a/9/da96112036dc22c6f1f39044d0baf0403d2cacf3.png]
+      class=['latex'] size=19x39
+
+  [74] alt=[$\sqrt{\frac{4-2\sqrt3}{4+2\sqrt3}} = \sqrt{\frac{2-\sqrt3}{2+\sqrt3}} = \sqrt{(2-\sqrt3)(2-\sqrt3)} = \boxed {2-\sqrt3}]
+      src=[//latex.artofproblemsolving.com/9/c/6/9c6b4accd33a674189dbd728e1ec390546b24d89.png]
+      class=['latex'] size=462x56
+
+  [75] alt=[$\boxed {C}$]
+      src=[//latex.artofproblemsolving.com/c/6/4/c643c58c820d9a544edf9607dc9312bcad9ec7bb.png]
+      class=['latex'] size=26x24
+
+  [76] alt=[$a$]
+      src=[//latex.artofproblemsolving.com/c/7/d/c7d457e388298246adb06c587bccd419ea67f7e8.png]
+      class=['latex'] size=11x10
+
+  [77] alt=[$b$]
+      src=[//latex.artofproblemsolving.com/8/1/3/8136a7ef6a03334a7246df9097e5bcc31ba33fd2.png]
+      class=['latex'] size=10x14
+
+  [78] alt=[$a^2+b^2=2$]
+      src=[//latex.artofproblemsolving.com/8/4/3/843081b2c60feb9746c03a998b1876cac44d7b13.png]
+      class=['latex'] size=90x18
+
+  [79] alt=[$2ab=1$]
+      src=[//latex.artofproblemsolving.com/8/e/9/8e9b8a6cce72d873bd38352b0d7d2a02dc85c87c.png]
+      class=['latex'] size=58x13
+
+  [80] alt=[$(a+b)^2=3$]
+      src=[//latex.artofproblemsolving.com/f/a/3/fa33ea89a8ae721f4834f408b2482f469b84ef8d.png]
+      class=['latex'] size=96x21
+
+  [81] alt=[$(a-b)^2=1$]
+      src=[//latex.artofproblemsolving.com/1/c/7/1c794b9c4fb2fcc325b33d2cdce16cb91db33d5e.png]
+      class=['latex'] size=96x21
+
+  [82] alt=[$4ab=2$]
+      src=[//latex.artofproblemsolving.com/9/b/0/9b0188208bb9801259c84f28833435fcaf9b83a1.png]
+      class=['latex'] size=62x14
+
+  [83] alt=[$b+a=\sqrt{3}$]
+      src=[//latex.artofproblemsolving.com/b/a/e/bae0fcbb59da630add816e5d96772a07d665cab8.png]
+      class=['latex'] size=90x21
+
+  [84] alt=[$b-a=1$]
+      src=[//latex.artofproblemsolving.com/2/7/6/276f19d13344062039a7ec1907adb2f96d92dea2.png]
+      class=['latex'] size=72x13
+
+  [85] alt=[$b=\frac{\sqrt{3}+1}{2}$]
+      src=[//latex.artofproblemsolving.com/d/f/5/df5db8725f250d0b0467f76d266d81714227d5b0.png]
+      class=['latex'] size=93x43
+
+  [86] alt=[$b$]
+      src=[//latex.artofproblemsolving.com/8/1/3/8136a7ef6a03334a7246df9097e5bcc31ba33fd2.png]
+      class=['latex'] size=10x14
+
+  [87] alt=[$a = \frac{\sqrt{3}-1}{2}$]
+      src=[//latex.artofproblemsolving.com/0/b/7/0b73112b8165b7e35c754de3ccf9217ea168f548.png]
+      class=['latex'] size=95x43
+
+  [88] alt=[$\boxed{\textbf{(C) } 2-\sqrt{3}}$]
+      src=[//latex.artofproblemsolving.com/4/5/f/45ffbb12c26e11188e6420a1cef82175ffd08320.png]
+      class=['latex'] size=104x35
+
+  [89] alt=[$s$]
+      src=[//latex.artofproblemsolving.com/f/3/7/f37bba504894945c07a32f5496d74299a37aa51c.png]
+      class=['latex'] size=10x10
+
+  [90] alt=[$l$]
+      src=[//latex.artofproblemsolving.com/9/b/2/9b25f8e64b484493fda944d25cad453423041fe6.png]
+      class=['latex'] size=5x12
+
+  [91] alt=[$t$]
+      src=[//latex.artofproblemsolving.com/e/0/d/e0d2bf360290fd61d1c1557e763f2622363b3d35.png]
+      class=['latex'] size=8x13
+
+  [92] alt=[\[s^2+l^2=2 \text{ and } \frac{1}{2}sl=\frac{1}{4}\]]
+      src=[//latex.artofproblemsolving.com/7/2/7/7279911e8096a1ee6651b72a3cd0bb954acc5612.png]
+      class=['latexcenter'] size=185x37
+
+  [93] alt=[\[t+\frac{1}{t}=4\]]
+      src=[//latex.artofproblemsolving.com/6/e/6/6e6a66938463bb3b8274e783b0ac58ecf10df432.png]
+      class=['latexcenter'] size=75x37
+
+  [94] alt=[$t$]
+      src=[//latex.artofproblemsolving.com/e/0/d/e0d2bf360290fd61d1c1557e763f2622363b3d35.png]
+      class=['latex'] size=8x13
+
+  [95] alt=[$t$]
+      src=[//latex.artofproblemsolving.com/e/0/d/e0d2bf360290fd61d1c1557e763f2622363b3d35.png]
+      class=['latex'] size=8x13
+
+  [96] alt=[\[t^2+1=4t\]]
+      src=[//latex.artofproblemsolving.com/0/9/a/09a4450c671cd6f4688f72fa740172903d8a1234.png]
+      class=['latexcenter'] size=84x17
+
+  [97] alt=[\[t^2-4t+1=0\]]
+      src=[//latex.artofproblemsolving.com/9/0/1/9018e46dae519ff6b67c3f609f9dde237743b74f.png]
+      class=['latexcenter'] size=116x17
+
+  [98] alt=[\[2 \pm \sqrt{3}\]]
+      src=[//latex.artofproblemsolving.com/c/d/5/cd50114c2659f40d584803bb84f1e71ea367081e.png]
+      class=['latexcenter'] size=55x18
+
+  [99] alt=[$\boxed{\textbf{(C) }2-\sqrt3}$]
+      src=[//latex.artofproblemsolving.com/d/6/8/d68ec7d36126491e9ce02da9ddf3ae34338c8b0d.png]
+      class=['latex'] size=104x35
+
+  [100] alt=[]
+      src=[https://artofproblemsolving.com/wiki/images/d/d1/AMC_Logo.png]
+      class=['mw-file-element'] size=97x84
+
+
+============================================================
+P7 - ALL H2 HEADERS:
+  [Contents]
+  [Problem]
+  [Solution 1 (Casework)]
+  [Solution 2 (Brute Force)]
+  [Solution 3]
+  [Video Solution by Little Fermat]
+  [Video Solution by Math-X (First understand the problem!!!)]
+  [Video Solution (easy to understand) by Power Solve]
+  [Video Solution by CosineMethod [≡ƒöÑFast and Easy≡ƒöÑ]]
+  [Video Solution]
+  [Video Solution (ΓÜí Just 3 min ΓÜí)]
+  [See Also]
