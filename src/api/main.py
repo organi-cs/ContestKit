@@ -115,6 +115,8 @@ def get_assembled_test(name: str, session: Session = Depends(get_db_session)) ->
             {
                 "order_index": item.order_index,
                 "problem_id": item.problem.problem_id,
+                "problem_text": item.problem.problem_text,   # <-- Added this so the text is returned!
+                "has_diagram": item.problem.has_diagram,     # <-- Added this as well
                 "predicted_solve_rate": item.predicted_solve_rate,
                 "predicted_difficulty": item.predicted_difficulty,
                 "estimated_solve_minutes": item.estimated_solve_minutes,

@@ -77,24 +77,40 @@ def prepare_training_dataframe(snapshot_df: pd.DataFrame) -> pd.DataFrame:
 
     for column in CORE_BOOLEAN_COLUMNS:
         if column in df.columns:
-            df[column] = df[column].astype("boolean").astype(float)
+            df[column] = df[column].astype(object).apply(
+                lambda v: float(v) if v is not None and v is not pd.NA else float("nan")
+            )
 
     for column in df.columns:
         if column.startswith("feature__"):
-            if df[column].map(lambda value: isinstance(value, bool) or value is None).all():
-                df[column] = df[column].astype("boolean").astype(float)
+            valid = df[column].dropna()
+            if not valid.empty and valid.map(lambda value: isinstance(value, bool)).all():
+                df[column] = df[column].astype(object).apply(
+                    lambda v: float(v) if v is not None and v is not pd.NA else float("nan")
+                )
+
+    # Universal cleanup: convert any remaining pandas nullable types to numpy
+    # types so scikit-learn never encounters pd.NA
+    import numpy as np
+    for column in df.columns:
+        if pd.api.types.is_extension_array_dtype(df[column].dtype):
+            if pd.api.types.is_numeric_dtype(df[column]) or pd.api.types.is_bool_dtype(df[column]):
+                df[column] = df[column].to_numpy(dtype="float64", na_value=np.nan)
 
     return df
 
 
 def infer_feature_columns(df: pd.DataFrame, *, target_column: str) -> tuple[list[str], list[str]]:
+    feature_columns = sorted(column for column in df.columns if column.startswith("feature__"))
+    numeric_feature_cols = [c for c in feature_columns if pd.api.types.is_numeric_dtype(df[c])]
+
     numeric_columns = [
         column
         for column in (
             CORE_NUMERIC_COLUMNS
             + CORE_BOOLEAN_COLUMNS
             + [f"{column}_count" for column in LIST_LIKE_COLUMNS]
-            + sorted(column for column in df.columns if column.startswith("feature__"))
+            + numeric_feature_cols
         )
         if column in df.columns and column != target_column
     ]
